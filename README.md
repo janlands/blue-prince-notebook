@@ -7,5 +7,7 @@ A digital journal space about the game Blue Prince.
 ## Working Table of Contents
 
 I. Room References
+
 II. Image References
+
 III. Connections
